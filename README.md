@@ -5,3 +5,5 @@ Learning Python for cloud and AWS, 1 hour a day.
 - Day 1: hello.py – first Python script
 - Day 1: server_check.py – loop through a list of servers
 - Day 1: learned to edit, delete and push files with github.dev
+- Day 2: learned DNS, Linux basics and the nginx web server
+- Day 2: hosted my own website on AWS EC2
