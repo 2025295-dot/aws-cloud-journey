@@ -1,5 +1,5 @@
-# Python Learning – Cloud Journey
-Learning Python for cloud and AWS, 1 hour a day.
+# AWS Cloud Journey
+Learning AWS, Linux and Python for cloud, 
 
 ## Progress
 - Day 1: hello.py – first Python script
